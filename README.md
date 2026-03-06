@@ -40,8 +40,8 @@ A shell-based installer for [Artix Linux](https://artixlinux.org) that automates
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/artix-installer.git
-cd artix-installer
+https://github.com/gluttony3/Artix-installer.git
+cd Artix-installer
 
 # Make scripts executable
 chmod +x artix-installer.sh lib/*.sh
